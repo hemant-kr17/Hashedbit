@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.text-here {
+    font-size: 55px;
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    text-align: left;
+    letter-spacing: normal;
+    word-spacing: normal;
+    margin-bottom: 20px; /* Adding space below the text container */
+}
+
+.stylebt {
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}

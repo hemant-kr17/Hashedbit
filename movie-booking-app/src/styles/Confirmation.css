@@ -1,0 +1,44 @@
+/* General styles for all buttons */
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styles for the confirmation page */
+  .confirmation {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .confirmation h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+  }
+  
